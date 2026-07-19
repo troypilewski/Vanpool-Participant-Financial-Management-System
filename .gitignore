@@ -1,0 +1,14 @@
+# MS Access Lock & Temporary Files
+*.laccdb
+*.ldb
+*.tmp
+*~*
+~$*
+# OS Specific Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# Office Auto-Recovery/Backup Files
+*.bak
+*.mac
+*.mdw
