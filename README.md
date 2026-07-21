@@ -52,8 +52,10 @@ Vanpool Participant & Financial Management System/
 - Version Control: Git
 
 ### Cloning the Repository
+```bash
 git clone [https://github.com/your-org/Vanpool-Participant-Financial-Management-System.git](https://github.com/your-org/Vanpool-Participant-Financial-Management-System.git)
 cd Vanpool-Participant-Financial-Management-System
+```
 
 ## Usage
 1. **Development Engine:** Open /database/VP-FMS_Dev.accdb within Microsoft Access to access forms and VBE.
